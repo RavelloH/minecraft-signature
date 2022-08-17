@@ -3,6 +3,7 @@
   Minecraft Signature file
   源代码:https://github.com/ravelloh/minecraft-signature
 */
+header("Content-type: image/JPEG");
 class App
 {
     /*高德地图开发者key*/
